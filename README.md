@@ -1,4 +1,4 @@
-# Hospital Patient Analytics Dashboard
+# Hospital Patient Analysis
 
 ## Project Overview
 
