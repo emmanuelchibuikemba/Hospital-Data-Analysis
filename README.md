@@ -113,7 +113,7 @@ The SQL analysis covered:
 | `dashboard/` | [Power BI Dashboard](dashboard/hospital_patient_analyticss_dashboard.pbix) | Interactive Power BI dashboard file |
 | `report/` | [Full Analytical Report](report/hospital_patient_analytics_report.pdf) | Story-driven report covering SQL analysis, Power BI findings, business insights, and recommendations |
 | `sql/` | [Hospital SQL Analysis](sql/hospital_data_analysis.sql) | SQL queries used for patient, cost, outcome, and readmission analysis |
-| `images/` | [Dashboard Screenshot](images/hospital_dashboard.png) | Final Hospital Patient Analytics Dashboard |
+| `images/` | [Dashboard Screenshot](hospital_patient_analyticss_dashboard.png) | Final Hospital Patient Analytics Dashboard |
 | `images/` | SQL result screenshots are in the files | Screenshots showing selected SQL query outputs |
 
 ## Business Value
