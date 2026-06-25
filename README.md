@@ -66,7 +66,7 @@ The Power BI dashboard includes the following measures:
 
 ## Dashboard Preview
 
-![Hospital Patient Analytics Dashboard](images/hospital_dashboard.png)
+![Hospital Patient Analytics Dashboard](images/hospital_patient_analyticss_dashboard.png)
 
 ## Full Analytical Report
 
